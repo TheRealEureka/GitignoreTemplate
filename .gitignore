@@ -6,8 +6,9 @@
 *.xml
 *.iws
 .idea/
+.out/
 
-## Laravel
+## Packages
 vendor/
 node_modules/
 npm-debug.log
@@ -25,7 +26,6 @@ a.out
 *.orig
 build_src
 .flymake*
-.idea
 docs/_build
 docs/_static
 docs/_templates
