@@ -19,7 +19,7 @@ composer.lock
 ## Docker
 .vagrant*
 bin
-docker/docker
+.docker/
 .*.swp
 a.out
 *.orig
